@@ -16,10 +16,35 @@ Senior Technical Program Manager focused on:
 - Snowflake Data Classification Framework
 - Enterprise RAG Assistant
 
-## Skills
+## Business Problem
+Organizations struggle to quickly identify governance policies and classified data rules across enterprise systems.
+
+## Solution
+Built a RAG-based AI assistant integrated with governance metadata to provide contextual policy responses.
+
+## Technologies
+- OpenAI
 - Snowflake
-- Python
-- LLM
-- RAG
 - LangChain
-- AI Governance
+- Voiceflow
+- Python
+
+## Architecture
+![Architecture](architecture.png)
+
+## Features
+- Context-aware search
+- Governance policy retrieval
+- Role-based access
+- Audit tracking
+
+## Challenges
+- Hallucination control
+- Metadata quality
+- Access management
+
+## Impact
+- Reduced manual search effort by 40%
+- Faster governance decisions
+
+
