@@ -30,7 +30,7 @@ Built a RAG-based AI assistant integrated with governance metadata to provide co
 - Python
 
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](AIGovernanceModelArchitectureOverview.png)
 
 ## Features
 - Context-aware search
